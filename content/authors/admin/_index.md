@@ -3,6 +3,8 @@ avatar_filename: avatar.jpeg
 bio: ""
 interests:
   - Political Trust
+  - Political Psychology
+  - Statistical Methods
 social:
   - icon: envelope
     icon_pack: fas
