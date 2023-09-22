@@ -1,10 +1,6 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+bio: ""
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -51,6 +47,7 @@ title: Paul Vierus
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a political scientist at the Department of Political Science of the University of Duisburg-Essen. \
+\
+My main areas of research are political support, political psychology, and quantitative statistical methods. My dissertation project focuses on the emotional and contextual determinants of political trust.
 {style="text-align: justify;"}
