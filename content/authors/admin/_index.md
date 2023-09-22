@@ -37,7 +37,7 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
-role: PhD Candidate Politcal science
+role: PhD Candidate Politcal Science
 highlight_name: true
 title: Paul Vierus
 first_name: Alice
