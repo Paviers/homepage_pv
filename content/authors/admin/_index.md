@@ -24,7 +24,7 @@ organizations:
     url: https://www.uni-due.de/
 education:
   courses:
-    - course: PhD in Political Science
+    - course: PhD Candidate in Political Science
       institution: University of Duisburg-Essen
       year: ""
     - course: "M.Sc. Sociology & Social Research "
