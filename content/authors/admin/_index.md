@@ -1,7 +1,8 @@
 ---
+avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Political Trust; Political Psychology; Quantative Statistical Methods
+  - Political Trust
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,19 +26,19 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Duisburg-Essen
+    url: https://www.uni-due.de/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Political Science
+      institution: University of Duisburg-Essen
+      year: ""
+    - course: "M.Sc. Sociology & Social Research "
+      institution: University of Cologne
+      year: 2019
+    - course: B.A. Sociology & Educational Science
+      institution: Johannes Gutenberg University of Mainz
+      year: 2016
 superuser: true
 status:
   icon: ☕️
@@ -46,7 +47,7 @@ role: PhD Candidate Politcal science
 highlight_name: true
 title: Paul Vierus
 first_name: Alice
-email: ""
+email: paul.vierus@uni-due.de
 ---
 I am a political scientist at the Department of Political Science of the University of Duisburg-Essen. \
 \
