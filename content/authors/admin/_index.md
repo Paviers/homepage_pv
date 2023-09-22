@@ -1,6 +1,7 @@
 ---
 bio: ""
-interests: []
+interests:
+  - PoliticalTrust
 social:
   - icon: envelope
     icon_pack: fas
