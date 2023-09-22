@@ -1,7 +1,7 @@
 ---
 bio: ""
 interests:
-  - PoliticalTrust
+  - Political Trust; Political Psychology; Quantative Statistical Methods
 social:
   - icon: envelope
     icon_pack: fas
